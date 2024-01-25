@@ -1,2 +1,2 @@
-y = "Hello World"
-y = y.replace("H", "J")
+txt = "Hello World"
+txt = txt.replace("H", "J")
