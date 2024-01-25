@@ -1,2 +1,2 @@
-y = "Hello World"
-x = y.strip()
+txt = "Hello World"
+x = txt.strip()
