@@ -1,2 +1,2 @@
-y = "Hello World"
-y = y.lower()
+txt = "Hello World"
+txt = txt.lower()
