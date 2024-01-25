@@ -1,2 +1,2 @@
-y = "Hello World"
-x = y[0]
+txt = "Hello World"
+x = txt[0]
