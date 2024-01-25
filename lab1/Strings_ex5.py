@@ -1,2 +1,2 @@
-y = "Hello World"
-y = y.upper()
+txt = "Hello World"
+y = txt.upper()
